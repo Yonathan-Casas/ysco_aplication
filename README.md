@@ -27,8 +27,9 @@ Para iniciar el proyecto se debe ejecutar el comando:
 
 -  **PORT:** `8000`
 
-## Participantes 
+## Participantes
 - [Yonathan Casas](https://github.com/Yonathan-Casas/ysco_aplication)
+- [Vanessa Monge](https://github.com/almendarizvanessa08-eng/vma.aplications)
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLIH_8sESiRsdwQ67NDetQsvtZPFmDNR9y6mXATFj8LQ&s=10">
