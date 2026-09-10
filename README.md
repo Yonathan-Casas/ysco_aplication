@@ -1,8 +1,8 @@
 # Informacion
 
-- Nombre:
-- No. Control:
-- Grupo: 
+- Nombre: Yonathan Samuel Casas Oviedo
+- No. Control: 1224100605
+- Grupo: GTI174
 
 
 ## Especificaciones de Proyecto
