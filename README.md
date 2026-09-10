@@ -33,5 +33,8 @@ Para iniciar el proyecto se debe ejecutar el comando:
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLIH_8sESiRsdwQ67NDetQsvtZPFmDNR9y6mXATFj8LQ&s=10">
 
+## Descripcion
+El objetivo del proyecto es entender GIT
+
 
 
